@@ -3,7 +3,7 @@
 ** Beginner Tutorials
 
 
-*** [[https://github.com/flutterkerala][Anto Josu’s step by step recreation of the Flutter Tutorials]]
+*** [[https://github.com/FlutterKerala/Flutter-Tutorials-Beginners][Anto Josu’s step by step recreation of the Flutter Tutorials]]
 Anto has gone through the Flutter repo step by step and recreated the Flutter dev layouts. It will be helpful to trace his path if you are new to this.
 
 *** [[https://flutter.dev/docs/development/ui/layout/tutorial][Building Layouts]]
