@@ -12,6 +12,9 @@ Flutter’s on tutorials to get started
 *** [[https://www.youtube.com/watch?v=pTJJsmejUOQ][FreeCodeCamp’s Tutorials]]
 FreeCodeCamp’s tutorial.
 
+*** Learning Dart
+
+Rahul Mahesh has done a documentation of Dart language here: https://rahulmahesh62.github.io/Dart-Documentation/
 
 ** Intermediate Tutorials
 
