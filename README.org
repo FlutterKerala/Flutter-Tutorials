@@ -28,12 +28,19 @@ Check out: https://itsallwidgets.com/
 
 The folowing articles were written by [[https://twitter.com/mukhtharcm][mukhtharcm]]
 
-*** [[https://mukhtharcm.com/dart-ternary-operator/][Dart Ternary operator ]]
-*** [[https://mukhtharcm.com/storage-permission-in-flutter/][Storage Permission in Flutter]]
-*** [[https://mukhtharcm.com/flutter-firebase-android-setup/][Firebase Setup for Flutter Android App]]
-*** [[https://mukhtharcm.com/listview-from-firestore/][Creating an Autoupdating ListView from Firebase Firestore]]
-*** [[https://mukhtharcm.com/different-types-of-snapshots-flutter/][Different types of Snapshots in Flutter]]
-*** [[https://mukhtharcm.com/getx-navigation-basics/][Flutter Navigation basics Using GetX]]
-*** [[https://mukhtharcm.com/flutter-web-quickstart/][Getting started with Flutter Web]]
+[[https://mukhtharcm.com/dart-ternary-operator/][Dart Ternary operator]]
+
+[[https://mukhtharcm.com/storage-permission-in-flutter/][Storage Permission in Flutter]]
+
+[[https://mukhtharcm.com/flutter-firebase-android-setup/][Firebase Setup for Flutter Android App]]
+
+[[https://mukhtharcm.com/listview-from-firestore/][Creating an Autoupdating ListView from Firebase Firestore]]
+
+[[https://mukhtharcm.com/different-types-of-snapshots-flutter/][Different types of Snapshots in Flutter]] 
+
+[[https://mukhtharcm.com/getx-navigation-basics/][Flutter Navigation basics Using GetX]]
+
+[[https://mukhtharcm.com/flutter-web-quickstart/][Getting started with Flutter Web]]
+
 
 for more of these guides, visit https://mukhtharcm.com
