@@ -1,46 +1,44 @@
-* Flutter Tutorials
+# Flutter Tutorials
 
-** Beginner Tutorials
+## Beginner Tutorials
 
+### [Anto Josu’s step by step recreation of the Flutter Tutorials](https://github.com/FlutterKerala/Flutter-Tutorials-Beginners)\
+> Anto has gone through the Flutter repo step by step and recreated the Flutter dev layouts. It will be helpful to trace his path if you are new to this.
 
-*** [[https://github.com/FlutterKerala/Flutter-Tutorials-Beginners][Anto Josu’s step by step recreation of the Flutter Tutorials]]
-Anto has gone through the Flutter repo step by step and recreated the Flutter dev layouts. It will be helpful to trace his path if you are new to this.
+### [Building Layouts](https://flutter.dev/docs/development/ui/layout/tutorial)
+> Flutter’s on tutorials to get started
 
-*** [[https://flutter.dev/docs/development/ui/layout/tutorial][Building Layouts]]
-Flutter’s on tutorials to get started
+### [FreeCodeCamp’s Tutorials](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+> FreeCodeCamp’s tutorial.
 
-*** [[https://www.youtube.com/watch?v=pTJJsmejUOQ][FreeCodeCamp’s Tutorials]]
-FreeCodeCamp’s tutorial.
+### Learning Dart
+>Rahul Mahesh has done a documentation of Dart language here: https://rahulmahesh62.github.io/Dart-Documentation/
 
-*** Learning Dart
+### Intermediate Tutorials
 
-Rahul Mahesh has done a documentation of Dart language here: https://rahulmahesh62.github.io/Dart-Documentation/
-
-** Intermediate Tutorials
-
-*** [[https://dev.to/solutelabs/a-developer-s-guide-to-flutter-37f1][A developer’s guide to Flutter]]
+## [A developer’s guide to Flutter](https://dev.to/solutelabs/a-developer-s-guide-to-flutter-37f1)
 Walks you through the Flutter ecosystem
 
-** Examples of apps made with Flutter
+### Examples of apps made with Flutter
 Check out: https://itsallwidgets.com/
 
-** Articles
+## Articles
 
-The folowing articles were written by [[https://twitter.com/mukhtharcm][mukhtharcm]]
+The folowing articles were written by [mukhtharcm](https://twitter.com/mukhtharcm)
 
-[[https://mukhtharcm.com/dart-ternary-operator/][Dart Ternary operator]]
+[Dart Ternary operator](https://mukhtharcm.com/dart-ternary-operator/)
 
-[[https://mukhtharcm.com/storage-permission-in-flutter/][Storage Permission in Flutter]]
+[Storage Permission in Flutter](https://mukhtharcm.com/storage-permission-in-flutter/)
 
-[[https://mukhtharcm.com/flutter-firebase-android-setup/][Firebase Setup for Flutter Android App]]
+[Firebase Setup for Flutter Android App](https://mukhtharcm.com/flutter-firebase-android-setup/)
 
-[[https://mukhtharcm.com/listview-from-firestore/][Creating an Autoupdating ListView from Firebase Firestore]]
+[Creating an Autoupdating ListView from Firebase Firestore](https://mukhtharcm.com/listview-from-firestore/)
 
-[[https://mukhtharcm.com/different-types-of-snapshots-flutter/][Different types of Snapshots in Flutter]] 
+[Different types of Snapshots in Flutter](https://mukhtharcm.com/different-types-of-snapshots-flutter/)
 
-[[https://mukhtharcm.com/getx-navigation-basics/][Flutter Navigation basics Using GetX]]
+[Flutter Navigation basics Using GetX](https://mukhtharcm.com/getx-navigation-basics/)
 
-[[https://mukhtharcm.com/flutter-web-quickstart/][Getting started with Flutter Web]]
+[Getting started with Flutter Web](https://mukhtharcm.com/flutter-web-quickstart/)
 
 
 for more of these guides, visit https://mukhtharcm.com
